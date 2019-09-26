@@ -4,7 +4,7 @@
 - I. Gather informations
 
 * Liste des cartes réseau
- ![alt text](img/1.png)
+ ![alt text](img/1.PNG)
 
 * IP en DHCP 
  ![alt text](/img/2.png " IP en DHCP ")
