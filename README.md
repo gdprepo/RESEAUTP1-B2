@@ -1,7 +1,7 @@
 # TP1-Back-to-basics-Reseau
 
 
-I. Gather informations
+## I. Gather informations
 
 * Liste des cartes réseau
 
@@ -37,6 +37,6 @@ I. Gather informations
 
  ![alt text](/img/7-firewallState.PNG "Firewall")
 
-II. Edit configuration
+## II. Edit configuration
 
 
