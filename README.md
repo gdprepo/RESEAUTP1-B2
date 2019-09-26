@@ -37,6 +37,6 @@ I. Gather informations
 
  ![alt text](/img/7-firewallState.PNG "Firewall")
 
-- II. Edit configuration
+II. Edit configuration
 
 
