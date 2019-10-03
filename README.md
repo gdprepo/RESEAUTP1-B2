@@ -39,4 +39,39 @@
 
 ## II. Edit configuration
 
+![alt text](/img/8.PNG "Firewall")
 
+ 
+![alt text](/img/9.PNG "Firewall")
+
+
+![alt text](/img/10.PNG "Firewall")
+
+
+![alt text](/img/11.PNG "Firewall")
+
+
+![alt text](/img/12.PNG "Firewall")
+
+
+![alt text](/img/13.PNG "Firewall")
+
+
+![alt text](/img/14.PNG "Firewall")
+
+
+## III. Routage simple
+ 
+IP  |
+----|-------------------------
+VM1 | 192.168.100.1
+VM2 | 192.168.36.1
+R   | 192.168.100.1 192.168.36.1
+    |
+
+
+![alt text](/img/15.PNG "TraceRoute")
+
+## IV. Autres applications et métrologie
+
+- iftop est un commande qui liste toutes les connexions de la machine.
